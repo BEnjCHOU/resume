@@ -1,0 +1,14 @@
+[
+    {
+        "projectName":"Soccer Goal",
+        "description": "An interactive tracking ball system",
+        "images":["https://drive.google.com/file/d/1DEYYh2Lg9YHNI5CPNJO3nYFkupiWsmb1/view?usp=sharing","https://drive.google.com/file/d/1FEl2rmTuwVbVXiSebpaN5T6dsxHWjejK/view?usp=sharing"],
+        "videos":["https://drive.google.com/file/d/1V-YmXn98eSSITjtohpCRDd_zhZMX66D8/view?usp=sharing"]
+    },
+    {
+        "projectName":"Projector",
+        "description": "An automated projection mapping system",
+        "images":["public/projector/FullSizeRender.jpg","public/projector/IMG_9409.jpg", "public/projector/lens1.gif"],
+        "videos":["public/projector/video1.MOV"]
+    }
+]
